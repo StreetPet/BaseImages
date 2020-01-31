@@ -7,6 +7,8 @@ Todos os arquivos de Imagens usados no projeto, os fontes destas imagens estão 
 
 Em todos os branchs deve conter apenas as imagens em formatos correspondente e adequados ao uso no projeto que importa este repositório, porém há um branch especial chamado SRC_RAW que contém os fontes das imagens e estes devem ser armazenados em diretórios adequados a aplicação que a manipula, porém sempre junto com a imagem final, seja Photoshop, Correl, Ilustrator, ou outro qualquer.
 
+Para compátibilidade com scripts do angular, os arquivos SVG, devem ficar na subpasta "svg", não ser que seja extritamente necessário sua mudança para outro local, mas lembrando de manter cada *branch* o mais desacoplado do outro, porém sem gerar redundãncia de aquivos
+
 ## Projetos que Usam este repositórios
 
 Abaixo estão os projetos que utilizam este repositório, observe que alguns projetos podem usar mais imagens que outro, por isso os branchs são todos criados a partir do zero, sem relações um com os outros, a não ser que o uso de todas as imagens sejam necessário, isso se dá para evitar a duplicação das imagens, e facilitar a atualização de todas elas em um único lugar.
